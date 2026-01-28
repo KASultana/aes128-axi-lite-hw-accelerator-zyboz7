@@ -110,4 +110,6 @@ A sample run (from the slides) shows a significant speedup using HW acceleration
 ---
 
 ## License
-Add your preferred license (MIT/BSD/Apache-2.0).
+## Third-party components
+This project integrates an MIT-licensed AES-128 VHDL core (see `hardware/rtl/aes128key.vhd` and `THIRD_PARTY_NOTICES.md`) and focuses on AXI-Lite integration and HW/SW performance benchmarking on ZYBO Z7.
+
