@@ -110,4 +110,4 @@ A sample run (from the slides) shows a significant speedup using HW acceleration
 ---
 
 ## Third-party components
-Some parts of this project (notably the AES VHDL core) may be based on MIT-licensed online resources and focuses on AXI-Lite integration and HW/SW performance benchmarking on ZYBO Z7.
+Some parts of of the AES VHDL core may be based on MIT-licensed online resources and focuses on AXI-Lite integration and HW/SW performance benchmarking on ZYBO Z7.
