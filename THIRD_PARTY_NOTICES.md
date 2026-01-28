@@ -9,4 +9,6 @@ The file `hardware/rtl/aes128key.vhd` includes an MIT license header referencing
 
 This project integrates the AES core into a ZYBO Z7 (Zynq-7000) AXI-Lite hardware accelerator system (Vivado 2019.2 + Vitis) and uses it for HW/SW benchmarking.
 
-**Note:** The authors took help from online resources during development but do not recall the exact original source and the exact extent of modifications (if any) made relative to the upstream version. To avoid misattribution, the license header inside `aes128key.vhd` is preserved as-is. The system integration work (AXI-Lite wrapper, PS software, and documentation) is authored by this repository’s contributors.
+**Note:** 
+## Code origin note
+This project was developed as a learning and academic exercise. Online resources were used during development. The authors do not recall the exact original sources for some code fragments. Any identifiable
